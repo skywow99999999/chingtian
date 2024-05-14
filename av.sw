@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="私密頻道",松視1
+P2p://generationnexxxt.com:19806/65965a69000205b2a39437282edd171f
+#EXTINF:-1 group-title="私密頻道",松視2
+P2p://generationnexxxt.com:19806/65965a69000aa6b2a394396a278d2960
+#EXTINF:-1 group-title="私密頻道",松視3
+P2p://generationnexxxt.com:19806/65965a6a000397c7a3943b7d68302409
 #EXTINF:-1 group-title="私密頻道",彩虹e
 P2p://generationnexxxt.com:19806/65965911000021e1a38ef6eb6d960419
 #EXTINF:-1 group-title="私密頻道",彩虹電影
@@ -11,12 +17,6 @@ P2p://generationnexxxt.com:19806/b18b7d6f932a44b68dadb6bc37a5df28
 P2p://generationnexxxt.com:19806/9f2fedfddd1c44159afc05fbc6d19111
 #EXTINF:-1 group-title="私密頻道",香蕉
 P2p://generationnexxxt.com:19806/c56271abc82643f7b8a2a5184f56b80d
-#EXTINF:-1 group-title="私密頻道",松視1
-P2p://generationnexxxt.com:19806/65965a69000205b2a39437282edd171f
-#EXTINF:-1 group-title="私密頻道",松視2
-P2p://generationnexxxt.com:19806/65965a69000aa6b2a394396a278d2960
-#EXTINF:-1 group-title="私密頻道",松視3
-P2p://generationnexxxt.com:19806/65965a6a000397c7a3943b7d68302409
 #EXTINF:-1 group-title="私密頻道",HAPPY
 P2p://generationnexxxt.com:19806/659660790009efada3abe7bb6374465e
 #EXTINF:-1 group-title="私密頻道",JStar極限
